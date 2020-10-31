@@ -1,0 +1,16 @@
+C:\Users\meals\source\repos\Math Game Addition Solution\Math Game Addition Project\bin\Debug\Math Game Addition Project.exe.config
+C:\Users\meals\source\repos\Math Game Addition Solution\Math Game Addition Project\bin\Debug\Math Game Addition Project.exe.manifest
+C:\Users\meals\source\repos\Math Game Addition Solution\Math Game Addition Project\bin\Debug\Math Game Addition Project.application
+C:\Users\meals\source\repos\Math Game Addition Solution\Math Game Addition Project\bin\Debug\Math Game Addition Project.exe
+C:\Users\meals\source\repos\Math Game Addition Solution\Math Game Addition Project\bin\Debug\Math Game Addition Project.pdb
+C:\Users\meals\source\repos\Math Game Addition Solution\Math Game Addition Project\bin\Debug\Math Game Addition Project.xml
+C:\Users\meals\source\repos\Math Game Addition Solution\Math Game Addition Project\obj\Debug\Math Game Addition Project.vbprojAssemblyReference.cache
+C:\Users\meals\source\repos\Math Game Addition Solution\Math Game Addition Project\obj\Debug\Math_Game_Addition_Project.mainForm.resources
+C:\Users\meals\source\repos\Math Game Addition Solution\Math Game Addition Project\obj\Debug\Math_Game_Addition_Project.Resources.resources
+C:\Users\meals\source\repos\Math Game Addition Solution\Math Game Addition Project\obj\Debug\Math Game Addition Project.vbproj.GenerateResource.cache
+C:\Users\meals\source\repos\Math Game Addition Solution\Math Game Addition Project\obj\Debug\Math Game Addition Project.vbproj.CoreCompileInputs.cache
+C:\Users\meals\source\repos\Math Game Addition Solution\Math Game Addition Project\obj\Debug\Math Game Addition Project.exe.manifest
+C:\Users\meals\source\repos\Math Game Addition Solution\Math Game Addition Project\obj\Debug\Math Game Addition Project.application
+C:\Users\meals\source\repos\Math Game Addition Solution\Math Game Addition Project\obj\Debug\Math Game Addition Project.exe
+C:\Users\meals\source\repos\Math Game Addition Solution\Math Game Addition Project\obj\Debug\Math Game Addition Project.xml
+C:\Users\meals\source\repos\Math Game Addition Solution\Math Game Addition Project\obj\Debug\Math Game Addition Project.pdb
